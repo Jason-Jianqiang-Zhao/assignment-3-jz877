@@ -1,0 +1,15 @@
+name: "our-website"
+navbar:
+  title: "Our Collaborative Website"
+  left:
+    - text: "index"
+      href: index.html
+    - text: "Jason"
+      href: about.html
+output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
