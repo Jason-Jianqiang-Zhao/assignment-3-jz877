@@ -5,7 +5,7 @@ navbar:
     - text: "index"
       href: index.html
     - text: "Jason"
-      href: about.html
+      href: Jason.html
 output_dir: "."
 output:
   html_document:
