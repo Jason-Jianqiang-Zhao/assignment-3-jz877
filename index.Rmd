@@ -13,6 +13,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is an R Markdown document for the index page for Assignment 3. The collobrators are Jason and Cormac. This is the page to our website: https://jason-jianqiang-zhao.github.io/assignment-3-jz877/
 
+Cormac Github: https://github.com/CormacM1
+
+Jason Github: https://github.com/Jason-Jianqiang-Zhao
+
+
 Below Jason would like to provide a photo of him hometown, Jinan, China:
 
 
